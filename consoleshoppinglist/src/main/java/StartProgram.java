@@ -7,7 +7,7 @@ import controller.ListItemHelper;
 import model.ListItem;
 
 public class StartProgram {
-
+	    //Anthony Hamlin
 		static Scanner in = new Scanner(System.in);
 		static ListItemHelper lih = new ListItemHelper();
 		

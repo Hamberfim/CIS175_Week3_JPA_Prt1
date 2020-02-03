@@ -8,7 +8,7 @@ import javax.persistence.TypedQuery;
 import model.ListItem;
 
 public class ListItemHelper {
-	
+	//Anthony Hamlin
 	static EntityManagerFactory emfactory = Persistence.createEntityManagerFactory("consoleshoppinglist");
 	
 	public void insertItem(ListItem li) {

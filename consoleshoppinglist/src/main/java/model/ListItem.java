@@ -10,7 +10,7 @@ import javax.persistence.Table;
 @Entity
 @Table(name="items")
 public class ListItem {
-	//Anthony Hamlin
+	//Anthony Hamlin 
 	
 	@Id
 	@GeneratedValue(strategy=GenerationType.IDENTITY)
